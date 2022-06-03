@@ -52,5 +52,5 @@ const calculateLoan = () => {
 //! Display hiddenTable
 
 const showTable = () => {
-  hiddenTable.style.display = "in-line";
+  hiddenTable.style.display = "block";
 };
